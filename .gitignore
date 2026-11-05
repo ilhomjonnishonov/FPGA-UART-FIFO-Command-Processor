@@ -1,0 +1,30 @@
+﻿# Vivado temporary & intermediate run directories
+**/.Xil/
+**/*.runs/
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.sim/
+**/*.gen/
+
+# Vivado generated binary artifacts & logs
+**/*.log
+**/*.jou
+**/*.str
+**/*.dcp
+**/*.bit
+**/*.ltx
+**/*.pb
+**/*.wdb
+**/*.vds
+**/*.rpt
+**/*.bin
+
+# Windows Paint raw files (converted to docs/images/*.png)
+*.paint
+
+# OS & Editor generated files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

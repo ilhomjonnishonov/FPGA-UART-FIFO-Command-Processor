@@ -1,0 +1,23 @@
+﻿# Vivado temporary & intermediate run directories
+.Xil/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Vivado generated binary artifacts & logs
+*.log
+*.jou
+*.str
+*.dcp
+*.bit
+*.ltx
+*.pb
+*.wdb
+*.vds
+*.rpt
+
+# OS generated files
+Thumbs.db
+.DS_Store
